@@ -2,7 +2,7 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
+        <img src="\best-buy-logo.png" alt="best-buy-logo">
       </a>
       Admin Portal
     </div>
